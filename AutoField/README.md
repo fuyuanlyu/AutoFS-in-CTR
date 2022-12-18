@@ -1,4 +1,4 @@
-# OptFS
+# AutoField
 This repository contains PyTorch Implementation of WWW 2022 paper:
   - [AutoField: Automating Feature Selection in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3485447.3512071)
 
